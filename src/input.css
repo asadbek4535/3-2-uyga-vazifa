@@ -1,0 +1,12 @@
+@import "tailwindcss";
+header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   width: 1109px;
+   height: 48px;
+}
+#chaild{
+ 
+}
+
