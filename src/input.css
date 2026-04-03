@@ -6,7 +6,9 @@ header{
    width: 1109px;
    height: 48px;
 }
-#chaild{
- 
+#chaild-10{
+    display: flex;
+    margin: auto;
+    background-color: aqua;
 }
 
